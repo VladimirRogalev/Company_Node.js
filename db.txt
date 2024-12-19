@@ -1,0 +1,39 @@
+[
+  {
+    "id": 3,
+    "name": "Serg",
+    "position": "Full-stack"
+  },
+  {
+    "id": 4,
+    "name": "dfdf",
+    "position": "Full-stack"
+  },
+  {
+    "id": 6,
+    "name": "dsfdsfsdfdsfsdf",
+    "position": "Full-stack"
+  },
+  [
+    {
+      "id": 2,
+      "name": "John",
+      "position": "Full-stack"
+    },
+    {
+      "id": 3,
+      "name": "Serg",
+      "position": "Full-stack"
+    },
+    {
+      "id": 4,
+      "name": "dfdf",
+      "position": "Full-stack"
+    },
+    {
+      "id": 6,
+      "name": "dsfdsfsdfdsfsdf",
+      "position": "Full-stack"
+    }
+  ]
+]
